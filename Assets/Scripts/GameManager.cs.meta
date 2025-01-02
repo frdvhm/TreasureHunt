@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: be89f0f69667efe4fa2af6b311bae4ed
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spawner: {instanceID: 0}
+  - endSceneSound: {fileID: 8300000, guid: f646285c44f8791408fd7e84d8ee4d4b, type: 3}
+  - gameOverSound: {fileID: 8300000, guid: 90b29bdce9168894fbe76e696a0165b7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

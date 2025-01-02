@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: dc6377d23a0cff5479e2ffeea5d8622b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainMenuMusic: {fileID: 8300000, guid: b6ad28e3bafddc449a5ef9880ffc4596, type: 3}
+  - startButtonSound: {fileID: 8300000, guid: e6d41fda4f625af4296ad87bff54b59c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

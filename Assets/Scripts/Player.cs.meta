@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: be4b7e482d96ba945b4c05f8b898b505
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - climbSprite: {instanceID: 0}
+  - hitSound: {fileID: 8300000, guid: 2400d5f7d3119d54a8b0c0906d4936e9, type: 3}
+  - jumpSound: {fileID: 8300000, guid: 5171ef8135fed664f9911c91398170e6, type: 3}
+  - pickupDiamondSound: {fileID: 8300000, guid: 0f991dce31003ad4daa3bf13f0ea5b38, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
